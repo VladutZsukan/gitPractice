@@ -9,5 +9,6 @@ class Vehicle {
     }
 }
 
-let bmw = new Vehicle("BMW X3", "Blue");
+let bmw = new Vehicle("BMW X3","Blue");
 console.log(bmw.getColor());
+console.log("Hello");
